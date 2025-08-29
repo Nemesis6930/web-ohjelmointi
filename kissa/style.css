@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(143, 230, 109, 0.76);
+}
+h1 {
+    color:rgb(3, 82, 0)
+}
+h2 {
+    color:darkblue
+}
+
+.listat {
+    color:rgb(129, 0, 0);
+}
+
+.teksti {
+    color:rgb(3, 82, 0)
+}
+
+#paikat {
+    color: red;
+}
